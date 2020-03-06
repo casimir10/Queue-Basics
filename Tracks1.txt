@@ -1,0 +1,25 @@
+1|Dance Monkey|Tones and I|50409214|https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku
+2|The Box|Roddy Ricch|48937592|https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+3|Tusa|KAROL G|41434019|https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY
+4|Godzilla (feat. Juice WRLD)|Eminem|40637125|https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
+5|Yummy|Justin Bieber|34586419|https://open.spotify.com/track/41L3O37CECZt3N7ziG2z7l
+6|Life Is Good (feat. Drake)|Future|34200687|https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc
+7|Blinding Lights|The Weeknd|33551309|https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+8|ROXANNE|Arizona Zervas|32102084|https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+9|Falling|Trevor Daniel|28606316|https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa
+10|Don't Start Now|Dua Lipa|28228768|https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg
+11|Memories|Maroon 5|24516744|https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM
+12|Circles|Post Malone|23997809|https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
+13|everything i wanted|Billie Eilish|21786149|https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ
+14|Good News|Mac Miller|21727425|https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY
+15|RITMO (Bad Boys For Life)|The Black Eyed Peas|21103190|https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf
+16|You should be sad|Halsey|19736651|https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK
+17|Someone You Loved|Lewis Capaldi|19523711|https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+18|Señorita|Shawn Mendes|19265338|https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2
+19|Black Swan|BTS|18424710|https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b
+20|Lose You To Love Me|Selena Gomez|17714002|https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi
+21|Rare|Selena Gomez|17524322|https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19
+22|Those Kinda Nights (feat. Ed Sheeran)|Eminem|16416620|https://open.spotify.com/track/0VSzREd1OjEWJ9tXoFHRQH
+23|bad guy|Billie Eilish|16405196|https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m
+24|Adore You|Harry Styles|16285662|https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7
+25|My Oh My (feat. DaBaby)|Camila Cabello|16246433|https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K
